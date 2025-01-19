@@ -1,3 +1,3 @@
 # gcet
-This is my first Git Repository
-junaid yousuf bhat
+This is my first Git Repository.
+author junaid yousuf bhat
